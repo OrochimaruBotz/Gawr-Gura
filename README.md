@@ -1,13 +1,13 @@
 # CATATAN ( NOTE )
 sc ini hanyalah hasil recode dari sc asli hisoka
-naze && papah hanya menghilangkat bug, memperbagus & menyeting banyak hal
+naze && papah && humanzzz hanya menghilangkat bug, memperbagus & menyeting banyak hal
 agar tidak terjadi error
 
-#Sad-Bot
+#Gawr Gura
 Script WhatsApp Bot Multi Device
 
 <p align="center">
-<img width="" src="https://img.shields.io/github/repo-size/FahriAdison/Sad-Bot-Case?color=green&label=Repo%20Size&style=for-the-badge&logo=appveyor">
+<img width="" src="https://img.shields.io/github/repo-size/OrochimaruBotz/Gawr-Gura?color=green&label=Repo%20Size&style=for-the-badge&logo=appveyor">
 </p>
 
 ## NOTE
@@ -17,9 +17,12 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 	<img src="https://telegra.ph/file/e661734204ce5f21b185b.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <p align="center">
+	<img src="https://telegra.ph/file/92a8e7ba9b9c4e2737330.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+<p align="center">
 	<img src="https://i.pinimg.com/736x/59/5b/87/595b87a04282978a2d5934e051c8376a.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">NAZE DEV × PAPAH-CHAN</h1>
+<h1 align="center">NAZE DEV × PAPAH-CHAN × HUMANZZZ</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
@@ -38,7 +41,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git clone https://github.com/FahriAdison/Sad-Bot-Case
+git clone https://github.com/OrochimaruBotz/Gawr-Gura
 cd Sad-Bot Case
 npm install
 ```
@@ -59,7 +62,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/FahriAdison/Sad-Bot-Case
+git clone https://github.com/OrochimaruBotz/Gawr-Gura
 cd Sad-Bot Case
 npm install
 ```
@@ -80,7 +83,7 @@ $ node .
 Bot WhatsApp masih dalam tahap pengembangan, jadi ada beberapa bug
 Koneksi WhatsApp (BETA, tidak berfungsi dengan sempurna)
 
-Editing Number Owner in [`config.js`](https://github.com/FahriAdison/Sad-Bot-Case/blob/main/config.js)
+Editing Number Owner in [`config.js`](https://github.com/OrochimaruBotz/Gawr-Gura/blob/main/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
@@ -98,11 +101,11 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`ArullOfc`](https://github.com/Warikrr)
 * [`Naze Dev`](https://github.com/nazedev)
 * [`Papah-Chan`](https://github.com/FahriAdison)
-
+* [`HumanzzZ`](https://github.com/OrochimaruBotz)
 ```Thanks to all who have participated in the development of this script```
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me:
-* [`Saweria`](https://saweria.co/papah)
+* [`Saweria`](https://saweria.co/humanzzZ)
