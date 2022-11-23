@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282287219167']
-global.ownernomer = "6282287219167"
-global.premium = ['6282287219167']
+global.owner = ['6289697488609', '6288804947282']
+global.ownernomer = "6289697488609"
+global.premium = ['6289697488609', '6288804947282']
 global.packname = 'Sticker By'
-global.author = 'Sad-Bot'
+global.author = 'Gawr Gura'
 global.sessionName = 'papah'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -37,7 +37,7 @@ global.mess = {
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: '*Fitur Khusus HumanzzZ & Yuzi!*',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
@@ -65,8 +65,8 @@ global.myytv = ''
 global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
+global.botname = 'Gawr Gura'
+global.akulaku = 'Bot By HumanzzZ'
 global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
